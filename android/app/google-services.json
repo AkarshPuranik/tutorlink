@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352331329281",
+    "project_id": "tutor-link-e37b5",
+    "storage_bucket": "tutor-link-e37b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352331329281:android:52940dd8c4dfc82dabb500",
+        "android_client_info": {
+          "package_name": "com.example.tutorlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVFrfQFthn0bF7m1CF46iYClGsXLQLks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
